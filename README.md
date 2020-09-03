@@ -1,4 +1,4 @@
-<img src="image/jbeap.png" width="100" align="right" />
+<img src="image/jbeap.png" align="right" />
 
 JBoss Enterprise Application Platform 
 =====================================
