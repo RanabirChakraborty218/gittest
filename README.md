@@ -1,2 +1,4 @@
-# gittest
-Just want to check how Git works
+<img src="image/jbeap.png" width="100" align="right" />
+
+JBoss Enterprise Application Platform 
+=====================================
